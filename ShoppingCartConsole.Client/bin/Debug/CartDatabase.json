@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Name": "Cereal",
+    "Quantity": 2,
+    "UnitPrice": 3.49,
+    "ItemTotal": 6.98
+  },
+  {
+    "Id": 2,
+    "Name": "Milk",
+    "Quantity": 1,
+    "UnitPrice": 2.49,
+    "ItemTotal": 2.49
+  },
+  {
+    "Id": 3,
+    "Name": "Bread",
+    "Quantity": 2,
+    "UnitPrice": 1.29,
+    "ItemTotal": 2.58
+  },
+  {
+    "Id": 4,
+    "Name": "Jam",
+    "Quantity": 1,
+    "UnitPrice": 3.15,
+    "ItemTotal": 3.15
+  },
+  {
+    "Id": 5,
+    "Name": "Coffee",
+    "Quantity": 1,
+    "UnitPrice": 6.49,
+    "ItemTotal": 6.49
+  }
+]

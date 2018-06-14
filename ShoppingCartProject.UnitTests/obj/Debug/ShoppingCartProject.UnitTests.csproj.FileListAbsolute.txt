@@ -1,0 +1,31 @@
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\ShoppingCartProject.UnitTests.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\ShoppingCartProject.UnitTests.pdb
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Autofac.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Castle.Core.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Moq.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\ShoppingCartProject.DataAccess.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\System.ValueTuple.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\ShoppingCartProject.DataAccess.pdb
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Autofac.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Castle.Core.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Moq.pdb
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Moq.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\bin\Debug\System.ValueTuple.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\obj\Debug\ShoppingCartProject.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\obj\Debug\ShoppingCartProject.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\obj\Debug\ShoppingCartProject.UnitTests.csproj.CopyComplete
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\obj\Debug\ShoppingCartProject.UnitTests.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\obj\Debug\ShoppingCartProject.UnitTests.pdb
+C:\Users\Yenny Wright\Desktop\SPRING 2018\CST236 Software Systems Testing\CST236_FinalExamSubmission_YennyPurwanto\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\obj\Debug\ShoppingCartProject.UnitTests.dll
+C:\Users\Yenny Wright\Desktop\SPRING 2018\CST236 Software Systems Testing\CST236_FinalExamSubmission_YennyPurwanto\ShoppingCartFinalExamProject\ShoppingCartProject.UnitTests\obj\Debug\ShoppingCartProject.UnitTests.pdb

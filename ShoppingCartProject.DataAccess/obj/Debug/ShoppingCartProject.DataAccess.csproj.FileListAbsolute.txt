@@ -1,0 +1,11 @@
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\bin\Debug\ShoppingCartProject.DataAccess.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\bin\Debug\ShoppingCartProject.DataAccess.pdb
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\bin\Debug\Autofac.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\bin\Debug\Autofac.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\obj\Debug\ShoppingCartProject.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\obj\Debug\ShoppingCartProject.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\obj\Debug\ShoppingCartProject.DataAccess.csproj.CopyComplete
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\obj\Debug\ShoppingCartProject.DataAccess.dll
+C:\Users\Yenny Wright\Desktop\ShoppingCartFinalExamProject\ShoppingCartProject.DataAccess\obj\Debug\ShoppingCartProject.DataAccess.pdb
